@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/color-swatch-generator/static/css/main.612de5dd.chunk.css",
+    "main.js": "/color-swatch-generator/static/js/main.7dfcc442.chunk.js",
+    "main.js.map": "/color-swatch-generator/static/js/main.7dfcc442.chunk.js.map",
+    "runtime-main.js": "/color-swatch-generator/static/js/runtime-main.c1ed8846.js",
+    "runtime-main.js.map": "/color-swatch-generator/static/js/runtime-main.c1ed8846.js.map",
+    "static/css/2.b37b9ec7.chunk.css": "/color-swatch-generator/static/css/2.b37b9ec7.chunk.css",
+    "static/js/2.24829948.chunk.js": "/color-swatch-generator/static/js/2.24829948.chunk.js",
+    "static/js/2.24829948.chunk.js.map": "/color-swatch-generator/static/js/2.24829948.chunk.js.map",
+    "static/js/3.f8895e7a.chunk.js": "/color-swatch-generator/static/js/3.f8895e7a.chunk.js",
+    "static/js/3.f8895e7a.chunk.js.map": "/color-swatch-generator/static/js/3.f8895e7a.chunk.js.map",
+    "index.html": "/color-swatch-generator/index.html",
+    "static/css/2.b37b9ec7.chunk.css.map": "/color-swatch-generator/static/css/2.b37b9ec7.chunk.css.map",
+    "static/css/main.612de5dd.chunk.css.map": "/color-swatch-generator/static/css/main.612de5dd.chunk.css.map",
+    "static/js/2.24829948.chunk.js.LICENSE.txt": "/color-swatch-generator/static/js/2.24829948.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ed8846.js",
+    "static/css/2.b37b9ec7.chunk.css",
+    "static/js/2.24829948.chunk.js",
+    "static/css/main.612de5dd.chunk.css",
+    "static/js/main.7dfcc442.chunk.js"
+  ]
+}
